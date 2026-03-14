@@ -1,4 +1,12 @@
 
+## Personal Project
+
+* PatronPoint is an integrated digital solution for tracking library occupancy,
+* managing visitor identities, and generating institutional analytics.
+* It streamlines the entry process using physical hardware (RF-ID) and digital authentication (SSO).
+
+
+
 # About Me
 
 I am an Information Technology student with a strong interest in **software development** and **problem-solving**. I am passionate about creating interactive and user-friendly web applications and am eager to gain real-world experience and continuously grow as a developer.
