@@ -1,5 +1,7 @@
 
 # Personal Project:  [[PatronPoint - School Library]](https://9000-firebase-studio-1773411523506.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev) 
+# FOR THE USERNAME OF THE ADMIN: admin123  
+# FOR THE PASSWORD OF THE ADMIN: 123
 * PatronPoint is an integrated digital solution for tracking library occupancy,
 * managing visitor identities, and generating institutional analytics.
 * It streamlines the entry process using physical hardware (RF-ID) and digital authentication (SSO).
