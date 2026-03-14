@@ -1,5 +1,5 @@
 
-# Personal Project  [[PatronPoint - School Library]](https://9000-firebase-studio-1773411523506.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev) 
+# Personal Project:  [[PatronPoint - School Library]](https://9000-firebase-studio-1773411523506.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev) 
 
 * PatronPoint is an integrated digital solution for tracking library occupancy,
 * managing visitor identities, and generating institutional analytics.
