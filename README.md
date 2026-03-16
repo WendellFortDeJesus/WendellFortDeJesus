@@ -1,5 +1,5 @@
 
-# Personal Project:  [[PatronPoint - School Library]](https://9000-firebase-studio-1773411523506.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev)
+# Personal Project:  
 
 **FOR THE USERNAME OF THE ADMIN:** admin123  
 **FOR THE PASSWORD OF THE ADMIN:** 12345
