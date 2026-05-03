@@ -14,7 +14,7 @@ I am an Information Technology student with a strong interest in **software deve
 ---
 ## Featured Projects Project
 
-#### PatronPoint School Library
+#### *PatronPoint School Library*
 A visitor management system for the NEU Central Library featuring a student check-in kiosk and an administrative portal for real-time analytics and reporting.
 
 - **Tech Stack:** Java, SQL
