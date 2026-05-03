@@ -40,11 +40,17 @@ A visitor management system for the NEU Central Library featuring a student chec
 
 | Category | Skills |
 | :--- | :--- |
-| **Programming Languages** | Java |
+| **Programming Languages** | Java, Python |
 | **Web Development** | HTML, CSS |
-| **Tools / Platforms** | Git, GitHub |
-| **Other Skills** | Problem-solving, clear communication |
+| **Database Management** | IBM Db2 Cloud |
+| **Tools / Platforms** | Git, GitHub, Lucidchart, Jaspersoft Studio, Eclipse |
+| **Soft Skills** | Problem-solving |
+
 ---
+
+##  Contact Me
+
+- **Email:** [wendelldejesus656@gmail.com](mailto:wendelldejesus656@gmail.com)
 
 
 
