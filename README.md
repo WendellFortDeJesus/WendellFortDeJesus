@@ -1,5 +1,5 @@
 
-# About Me
+## About Me
 
 I am an Information Technology student with a strong interest in **software development** and **problem-solving**. I am passionate about creating interactive and user-friendly web applications and am eager to gain real-world experience and continuously grow as a developer.
 
@@ -12,10 +12,10 @@ I am an Information Technology student with a strong interest in **software deve
 * **School Year:** 2024 - Current
 
 ---
-##  Featured Projects Project
+## Featured Projects Project
 
 #### PatronPoint School Library
-*A comprehensive library management system designed to streamline book tracking and user enrollment.*
+A visitor management system for the NEU Central Library featuring a student check-in kiosk and an administrative portal for real-time analytics and reporting.
 
 - **Tech Stack:** Java, SQL
 - **Type:** Personal Project
