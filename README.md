@@ -12,7 +12,9 @@ I am an Information Technology student with a strong interest in **software deve
 * **School Year:** 2024 - Current
 
 ---
+<div align="center">
 
+  
 ## Certifications
 | Certification | Link |
 | :--- | :--- |
@@ -33,6 +35,11 @@ I am an Information Technology student with a strong interest in **software deve
 | **Other Skills** | Problem-solving, clear communication |
 ---
 
-## Projects 
-** Github Repository ** [System Overview](https://github.com/WendellFortDeJesus/PersonalProject)
-| **Patron Point School Library** |[Personal Project](https://personal-project-ruddy-theta.vercel.app/)|
+## Project
+
+| Project Name | Type | Link | Repository | 
+| :--- | :--- | :--- | :--- |
+| **PatronPoint School Libary** | PersonalProject | [View Code](https://personal-project-ruddy-theta.vercel.app/) | [View](https://github.com/WendellFortDeJesus/PersonalProject) |
+
+</div>
+
