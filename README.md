@@ -16,13 +16,13 @@ I am an Information Technology student with a strong interest in **software deve
 ## Certifications
 ## Certifications
 
-* **SQL and Relational Databases 101 Certificate**   [View Certificate](https://courses.cognitiveclass.ai/certificates/c40984fb91564bfa91cf2d735aab002f)
+* **SQL and Relational Databases 101 Certificate**                                                                       [View Certificate](https://courses.cognitiveclass.ai/certificates/c40984fb91564bfa91cf2d735aab002f)
 
-* **Oracle Cloud Infrastructure Learning Subscription**   [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=34E32798E725164EB1D17FCCF52F08412417097731CCABB57201B506F01FEF47)
+* **Oracle Cloud Infrastructure Learning Subscription**                                                                  [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=34E32798E725164EB1D17FCCF52F08412417097731CCABB57201B506F01FEF47)
   
-* **Oracle Data Platform Foundations Associate**   [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=52302861C97B8DEC8496C04084202FA518E818879D3A329975CF04D4EA9BCC4A)
+* **Oracle Data Platform Foundations Associate**                                                                         [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=52302861C97B8DEC8496C04084202FA518E818879D3A329975CF04D4EA9BCC4A)
 
-* **NoSQL and DBaaS 101**  [View Badge](https://courses.cognitiveclass.ai/certificates/72a82d5c695e4260806660260f58962b)
+* **NoSQL and DBaaS 101**                                                                                                [View Badge](https://courses.cognitiveclass.ai/certificates/72a82d5c695e4260806660260f58962b)
   
 ---
 
