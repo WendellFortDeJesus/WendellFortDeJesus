@@ -31,6 +31,7 @@ I am an Information Technology student with a strong interest in **software deve
 | **Web Development** | HTML, CSS |
 | **Tools / Platforms** | Git, GitHub |
 | **Other Skills** | Problem-solving, clear communication |
+---
 
 ## Projects 
 ** Github Repository ** [System Overview](https://github.com/WendellFortDeJesus/PersonalProject)
